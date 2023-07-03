@@ -1,0 +1,1 @@
+[{"CommandCode":"1005","DeviceID":"DVS-GS-001","DMAID":0,"TotalPoints":512,"FrameNumber":256,"AvgNumber":8,"HighpassHz":2.5,"Scanrate":2000.0,"PulseWidth":100,"FiberLength1":500,"FiberOffset1":10,"Noiselevel1":5000,"FiberLength2":10,"FiberOffset2":10,"Noiselevel2":0,"AlarmResolution":1,"MinimumAlarmCnt":1,"DurationCnt":1,"DealingWind":1,"WindWindow":1,"WindMinimumCnt":1}]

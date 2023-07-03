@@ -1,0 +1,1 @@
+[{"CommandCode":"1004","DeviceID":"DVS-GS-001","ChannelID":1,"CurveLength":3,"Resolution":1.1,"CurveData":[5,12,23]},{"CommandCode":"1004","DeviceID":"DVS-GS-001","ChannelID":1,"CurveLength":10,"Resolution":1.0,"CurveData":[13495,29819,26610,16306,9055,16256,10405,4914,804,24273]}]

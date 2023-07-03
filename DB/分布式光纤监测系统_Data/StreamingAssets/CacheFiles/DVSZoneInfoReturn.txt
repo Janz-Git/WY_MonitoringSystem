@@ -1,0 +1,1 @@
+[{"CommandCode":"1007","DeviceID":"DVS-GS-001","ZoneInfo":[{"ZoneID":1,"ChannelID":0,"ZoneName":"1","FiberStart":60,"FiberEnd":160,"Threshold":3000,"IsAlarm":1}]}]
